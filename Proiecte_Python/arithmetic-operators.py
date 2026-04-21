@@ -59,4 +59,4 @@ b = float(input("dami un numar b:"))
 
 c = math.sqrt(pow(a, 2)+ pow(b, 2))
 
-print(f"Rezultatul catetei este: {c}")
+print(f"Rezultatul catetei este: {round(c)}")
